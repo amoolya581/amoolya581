@@ -9,9 +9,8 @@
 
 
 - **HTML5**: Expert in structuring web content with semantic HTML.
-- **CSS3**: Designing responsive, mobile-first websites using CSS3 techniques.
 - **Java**: Building interactive and dynamic web pages with JavaScript.
-- **React**: Developing user interfaces using React for single-page applications.
+- **React**: Developing user interfaces using React for single-page application.
 - **Node.js**: Creating scalable backends with Node.js.
 - **Version Control**: Proficient in Git and GitHub for code collaboration and versioning.
 
