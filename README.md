@@ -1,8 +1,8 @@
 ## Hi there 👋
-##hello also
+## hello also
 
 **amoolya581/amoolya581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**sample**
 
 ### My coding skills represnted by badges
 ![Static Badge](https://img.shields.io/badge/java-beginner-brightgreen)
