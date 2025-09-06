@@ -6,6 +6,7 @@
 ### My coding skills represnted by badges
 ![Static Badge](https://img.shields.io/badge/java-beginner-brightgreen)
 ![Static Badge](https://img.shields.io/badge/sql-intermediate-blue)
+![Static Badge](https://img.shields.io/badge/python-red)
 
 
 - **HTML5**: Expert in structuring web content with semantic HTML.
