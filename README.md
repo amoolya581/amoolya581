@@ -43,7 +43,7 @@
 ### How to Reach Me
 📫 You can reach me via:
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/amoolya581](https://www.linkedin.com/in/amoolya581)
+- **LinkedIn**: [linkedin.com/in/amoolya581](https://www.linkedin.com/in/dudala-amoolya-9a9559327/)
 - **Twitter**: [@amoolya581](https://twitter.com/amoolya581)
 
  
