@@ -45,12 +45,13 @@
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 - **LinkedIn**: [linkedin.com/in/amoolya581](https://www.linkedin.com/in/dudala-amoolya-9a9559327/)
 - **Twitter**: [@amoolya581](https://twitter.com/amoolya581)
-
+ 
  
 
 ### GitHub Stats
 Here are some of my GitHub stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amoolya581&show_icons=true&hide_title=true&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amoolya189)
 
 ### My Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amoolya581&layout=compact)
